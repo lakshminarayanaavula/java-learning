@@ -1,11 +1,4 @@
 package com.aln.day2;
-
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.UUID;
-
 public class AccountManager {
 
     public static void main(String[] args) {
