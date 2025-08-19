@@ -40,8 +40,7 @@ public class AccountManager {
     }
 
     public static Account[] getAccounts() {
-        Account account1 = new Account("SB" +
-                "101", "Krish", 1000000);
+        Account account1 = new Account("SB101", "Krish", 1000000);
         Account account2 = new Account("SB102", "Rajesh", 200000);
         Account account3 = new Account("SB103", "Ramesh", 300000);
         Account account4 = new Account("SB104", "Raj", 400000);
